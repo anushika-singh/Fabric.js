@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+.container {
+    height: 600px;
+    width: 1000px;
+}
+.form{
+    margin: 30px;
+    text-align: center;
+}
+.canvas{
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+}
